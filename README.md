@@ -1,6 +1,4 @@
-Normal text
-
-# Heading 1
+# Basics of markdown
 
 ## Heading 2
 
